@@ -1,0 +1,6 @@
+cmake-build-debug
+CMakeLists.txt
+betty
+.DS_Store
+hsh
+.idea
